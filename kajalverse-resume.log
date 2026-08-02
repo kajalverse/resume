@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.1)  2 AUG 2026 03:15
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.1)  2 AUG 2026 09:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -713,11 +713,11 @@ ge=dflt;+smcp;"
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Lig(0)/m/sc' undefined
-(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 106.
+(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 75.
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Lig(1)/m/sc' undefined
-(Font)              using `TU/Lato-Lig(1)/m/n' instead on input line 106.
+(Font)              using `TU/Lato-Lig(1)/m/n' instead on input line 75.
 
 
 Package fontspec Info: 
@@ -733,19 +733,17 @@ Package fontspec Info:
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/b/n' undefined
-(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 108.
+(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 76.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 147.
+Underfull \hbox (badness 10000) in paragraph at lines 85--92
+\TU/Lato-Lig(0)/m/n/10 •\TU/Lato-Lig(0)/b/n/10 AntibioticSusceptibilityTesting
+ []
 
 
-LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/m/sc' undefined
-(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 268.
+LaTeX Font Warning: Font shape `TU/Raleway-Medium(0)/b/sc' undefined
+(Font)              using `TU/Raleway-Medium(0)/m/n' instead on input line 109.
 
-
-LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/b/sc' undefined
-(Font)              using `TU/Lato-Bol(0)/b/n' instead on input line 268.
 
 [1
 
@@ -765,15 +763,15 @@ Package rerunfilecheck Warning: File `kajalverse-resume.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `kajalverse-resume.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  34B8E024BF125CF2B24904B9749669D8;1906.
+(rerunfilecheck)             After:  8C24FB55FECB89E51ADC3219C522B36A;1556.
  ) 
 Here is how much of TeX's memory you used:
- 14985 strings out of 467814
- 303928 string characters out of 5425313
- 824502 words of memory out of 5000000
- 43792 multiletter control sequences out of 15000+600000
- 628521 words of font info for 96 fonts, out of 8000000 for 9000
+ 14976 strings out of 467814
+ 303667 string characters out of 5425313
+ 813502 words of memory out of 5000000
+ 43787 multiletter control sequences out of 15000+600000
+ 628489 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,11n,130p,462b,569s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,130p,386b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on output/kajalverse-resume.pdf (1 page).
